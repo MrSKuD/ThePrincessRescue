@@ -64,6 +64,7 @@ Le jeu est en **anglais** uniquement.
 
 Le meilleur score est stocké dans le fichier texte `timer.txt` à placer dans le répertoire de travail `/build-QTProject-Desktop_Qt_5_14_2_MinGW_64_bit-Debug` /!\ **APRES PREMIERE COMPILATION EN MODE DEBUG** /!\ .
 
+En version installateur, le fichier texte est masqué pour une raison de sécurité et anti-triche évidente.
 
 Améliorations
 -------------
@@ -74,7 +75,6 @@ Améliorations
 ### Fonctionnalités
 *	Permettre à l'utilisateur de choisir ses touches de jeux.
 *	Permettre à l'utilisateur de choisir la résolution du jeu (nottament plein écran pour une meilleure expérience).
-*	Pour la version du jeu avec installateur, le fichier de sauvegarde du meilleur score `timer.txt` peut être modifié par l'utilisateur et ce dernier peut donc tricher. Le fichier peut être masqué mais si il l'est, le jeu ne peux pas modifier son contenu. Il faudrait utiliser un autre type de fichier pour sécuriser cela. 
 
 N’hésitez pas à me signaler tout bogue qui viendrais entraver l’expérience utilisateur. Toute aide pour perfectionner ce projet est la bienvenue ! 
 
