@@ -6,7 +6,7 @@ Prérequis
 ---------
 
 Afin d'exécuter le programme, il est nécessaire d'avoir un compilateur C++ ainsi que la bibliothèque Qt5. Une solution est d'installer le programme Qt Creator qui possède à la fois le compilateur C++ et les bibliothèques nécessaires.
-Vous pouvez le télécharger via [le lien suivant](https://www.qt.io/download). Cette solution est **TRES CONSEILLEE** car des bogues de taille de fenêtre apparaissent fréquamment en utilisant d'autres outils (Xming nottament).
+Vous pouvez le télécharger via [le lien suivant](https://www.qt.io/download). Cette solution est **TRES CONSEILLEE** car des bogues de taille de fenêtre apparaissent fréquemment en utilisant d'autres outils (Xming nottament).
 Une version avec installateur pour pouvoir jouer directement est disponible [ici]() (lien non actif pour le moment).
 
 Installation
