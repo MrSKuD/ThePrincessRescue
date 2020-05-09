@@ -68,8 +68,8 @@ Le meilleur score est stocké dans le fichier texte `timer.txt` à placer dans l
 Améliorations
 -------------
 ### Bogues
-*	Lorsque un menu est affiché (pause/défaite/victoire), l'utilsateur peut en appuyant sur les flèches directionnelles se déplacer dans la fenêtre. Le problème peut être résolu en assignant d'autres touches pour le déplacement du personnage. Chose qui ici ne me ferait pas respecter le cahier des charges.
-*	L'affichage du timer dans le menu de victoire à parfois un bogue. C'est un problème aléatoire qui arrive sur certains ordinateurs alors que d'autres pas du tout. 
+*	Lorsqu'un menu est affiché (pause/défaite/victoire), l'utilisateur peut en appuyant sur les flèches directionnelles se déplacer dans la fenêtre. Le problème peut être résolu en assignant d'autres touches pour le déplacement du personnage. Chose qui ici ne me ferait pas respecter le cahier des charges.
+*	L'affichage du timer dans le menu de victoire à parfois un bogue. C'est un problème aléatoire qui arrive sur certains ordinateurs. 
 
 ### Fonctionnalités
 *	Permettre à l'utilisateur de choisir ses touches de jeux.
