@@ -12,7 +12,7 @@ Une version avec installateur pour pouvoir jouer directement est disponible [ici
 Installation
 ------------
 Avec Qt Creator :
-*	Téléchargez tous les fichiers dans dossier nommé `QTProject`
+*	Téléchargez tous les fichiers dans un dossier nommé `QTProject`
 *	Ouvrez le projet avec Qt Creator
 *	Compilez le projet en mode Debug
 *	Placer le fichier `timer.txt` dans le répertoire de travail `/build-QTProject-Desktop_Qt_5_14_2_MinGW_64_bit-Debug` /!\ **APRES PREMIERE COMPILATION EN MODE DEBUG** /!\
