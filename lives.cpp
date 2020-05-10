@@ -1,3 +1,9 @@
+/*
+@Author: Enzo MOULIN
+@Website: http://www.enzomoulin.com/
+@Email: enzo.moulin@isen-ouest.yncrea.fr
+ */
+
 #include "lives.h"
 
 Lives::Lives(QGraphicsItem * parent) : QGraphicsTextItem(parent) {
