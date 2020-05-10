@@ -88,7 +88,7 @@ Contact
 -------
 Mail : enzo.moulin@isen-ouest.yncrea.fr
 Site web : http://www.enzomoulin.com
-GitHub : https://github.com/MrSKuD
+GitHub : https://github.com/MrSKuD/ThePrincessRescue
 
 [1]: https://i.ibb.co/ckf1vzy/jeu1.png
 [2]: https://i.ibb.co/yfc2p79/jeu2.png
