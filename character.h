@@ -1,3 +1,9 @@
+/*
+@Author: Enzo MOULIN
+@Website: http://www.enzomoulin.com/
+@Email: enzo.moulin@isen-ouest.yncrea.fr
+ */
+
 #ifndef PROJETQT_CHARACTER_H
 #define PROJETQT_CHARACTER_H
 
