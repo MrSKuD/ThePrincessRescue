@@ -1,3 +1,9 @@
+/*
+@Author: Enzo MOULIN
+@Website: http://www.enzomoulin.com/
+@Email: enzo.moulin@isen-ouest.yncrea.fr
+ */
+
 #include "fireball.h"
 
 FireBall::FireBall(QString imageFileName) : QGraphicsPixmapItem(QPixmap(imageFileName)) {
